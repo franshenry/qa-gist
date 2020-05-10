@@ -1,7 +1,7 @@
 //Configurable Email (change this const)
-const email='frans.henrock@gmail.com'
+const email='qatest@gmail.com'
 //Configurable Password (change this const)
-const password='helloyellow12'
+const password='qaasik'
 //Elements
 const elements={
   TXT_LOGIN_EMAIL:'#login_field',
